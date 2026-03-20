@@ -23,4 +23,4 @@ jobs:
         uses: docker/build-push-action@v5
         with:
           push: true
-          tags: yourusername/yourapp:latest
+          tags: joshdev15/myapp:latest
